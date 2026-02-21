@@ -1,7 +1,7 @@
 bin/
 obj/
 *.idea/
-*DS_Store
+*.DS_Store
 *.user
 *.suo
 *.DotSettings
